@@ -1,4 +1,4 @@
-# RAG-Q-A-Conversation-With-PDF-with-Chat-History
+# RAG-QnA-Conversation-With-PDF-with-Chat-History
 # Conversational RAG with PDF Uploads and Chat History
 
 A Retrieval-Augmented Generation (RAG) application built using **LangChain**, **Groq LLM**, **ChromaDB**, and **Streamlit** that allows users to upload PDF documents and interact with them through a conversational chat interface. The application maintains chat history, enabling context-aware follow-up questions and a more natural conversational experience.
